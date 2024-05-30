@@ -1,0 +1,484 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-05 16:13-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\config\settings.py:189
+msgid "English"
+msgstr ""
+
+#: .\config\settings.py:190
+msgid "French"
+msgstr ""
+
+#: .\config\settings.py:226
+msgid "BWL Admin"
+msgstr ""
+
+#: .\content\admin.py:106 .\content\admin.py:109 .\content\models.py:276
+#: .\content\models.py:337
+msgid "Offer"
+msgstr ""
+
+#: .\content\models.py:24
+msgid "Created Date"
+msgstr ""
+
+#: .\content\models.py:25
+msgid "Modified Dtae"
+msgstr ""
+
+#: .\content\models.py:42 .\content\models.py:132 .\content\models.py:216
+#: .\content\models.py:295 .\content\models.py:302 .\content\models.py:335
+#: .\content\models.py:356 .\content\models.py:375 .\content\models.py:387
+#: .\content\models.py:413
+msgid "User"
+msgstr ""
+
+#: .\content\models.py:44
+msgid "Uid Name"
+msgstr ""
+
+#: .\content\models.py:45
+msgid "Token"
+msgstr ""
+
+#: .\content\models.py:46 .\content\models.py:403
+msgid "Expiration Date"
+msgstr ""
+
+#: .\content\models.py:47 .\content\models.py:155
+msgid "Code"
+msgstr ""
+
+#: .\content\models.py:48
+msgid "Succes"
+msgstr ""
+
+#: .\content\models.py:49 .\content\models.py:160 .\content\models.py:201
+msgid "Is Active"
+msgstr ""
+
+#: .\content\models.py:50
+msgid "Number of Attempt"
+msgstr ""
+
+#: .\content\models.py:97
+msgid "Display in Discover section"
+msgstr ""
+
+#: .\content\models.py:99
+msgid "Page Type"
+msgstr ""
+
+#: .\content\models.py:102 .\content\models.py:148 .\content\models.py:215
+#: .\content\models.py:243 .\content\models.py:358
+msgid "Name"
+msgstr ""
+
+#: .\content\models.py:103
+msgid "Home Page Image"
+msgstr ""
+
+#: .\content\models.py:105
+msgid "Login Image"
+msgstr ""
+
+#: .\content\models.py:107
+msgid "Registration Image"
+msgstr ""
+
+#: .\content\models.py:111
+msgid "Settings"
+msgstr ""
+
+#: .\content\models.py:112
+msgid "Setting"
+msgstr ""
+
+#: .\content\models.py:115
+msgid "Currency Name"
+msgstr ""
+
+#: .\content\models.py:116 .\content\models.py:133
+msgid "Country"
+msgstr ""
+
+#: .\content\models.py:135
+msgid "Default Currency"
+msgstr ""
+
+#: .\content\models.py:137
+msgid "UID"
+msgstr ""
+
+#: .\content\models.py:138
+msgid "Phone Number"
+msgstr ""
+
+#: .\content\models.py:139
+msgid "Language"
+msgstr ""
+
+#: .\content\models.py:141
+msgid "Birth Date"
+msgstr ""
+
+#: .\content\models.py:142
+msgid "Gender"
+msgstr ""
+
+#: .\content\models.py:156
+msgid "Reference"
+msgstr ""
+
+#: .\content\models.py:157 .\content\models.py:188
+msgid "Published Date"
+msgstr ""
+
+#: .\content\models.py:158
+msgid "Users"
+msgstr ""
+
+#: .\content\models.py:163
+msgid "Messages"
+msgstr ""
+
+#: .\content\models.py:178
+msgid "Instrument"
+msgstr ""
+
+#: .\content\models.py:179 .\content\models.py:182 .\content\models.py:256
+#: .\content\models.py:380 .\content\models.py:382 .\content\models.py:417
+msgid "Message"
+msgstr ""
+
+#: .\content\models.py:180 .\content\models.py:378
+msgid "Music"
+msgstr ""
+
+#: .\content\models.py:184
+msgid "Title"
+msgstr ""
+
+#: .\content\models.py:185
+msgid "Media Type"
+msgstr ""
+
+#: .\content\models.py:186
+msgid "Author"
+msgstr ""
+
+#: .\content\models.py:187
+msgid "Duration"
+msgstr ""
+
+#: .\content\models.py:189
+msgid "External Url"
+msgstr ""
+
+#: .\content\models.py:191
+msgid ""
+"Use this field if the Music file is store externally to this application"
+msgstr ""
+
+#: .\content\models.py:192
+msgid "Music File"
+msgstr ""
+
+#: .\content\models.py:193
+msgid ""
+"Use this field if the Music file is store Internally to this application"
+msgstr ""
+
+#: .\content\models.py:195
+msgid "Can be shared"
+msgstr ""
+
+#: .\content\models.py:196
+msgid "Check this field if the music can be shared"
+msgstr ""
+
+#: .\content\models.py:197
+msgid "Can be downloaded"
+msgstr ""
+
+#: .\content\models.py:198
+msgid "Check this field if the music can be downloaded"
+msgstr ""
+
+#: .\content\models.py:199
+msgid "Is Free"
+msgstr ""
+
+#: .\content\models.py:200
+msgid "Check this field if the music is free"
+msgstr ""
+
+#: .\content\models.py:202
+msgid "Check this field if the music is active"
+msgstr ""
+
+#: .\content\models.py:203
+msgid "Copyright Information"
+msgstr ""
+
+#: .\content\models.py:204
+msgid "Description"
+msgstr ""
+
+#: .\content\models.py:205
+msgid "Provide a brief description about the Music"
+msgstr ""
+
+#: .\content\models.py:218 .\content\models.py:258
+msgid "Media"
+msgstr ""
+
+#: .\content\models.py:222
+msgid "Playlist"
+msgstr ""
+
+#: .\content\models.py:244 .\content\models.py:279 .\content\models.py:340
+msgid "Is active?"
+msgstr "C' est Active"
+
+#: .\content\models.py:245
+msgid "Décochez cette case si cette offre n'est plus disponible"
+msgstr ""
+
+#: .\content\models.py:246
+msgid "Is Free?"
+msgstr "C'est Gratuit"
+
+#: .\content\models.py:247
+msgid "Check this box if this offer is free"
+msgstr "Cochez cette case si l'offre est gratuite"
+
+#: .\content\models.py:248
+msgid "Auto Assign?"
+msgstr ""
+
+#: .\content\models.py:249
+msgid ""
+"Check this box if this offer should be automatically assigned to new user"
+msgstr ""
+
+#: .\content\models.py:250
+msgid "Is Sharable?"
+msgstr ""
+
+#: .\content\models.py:251
+msgid ""
+"Check this box if the messages and media in this offer can be shared with "
+"other user"
+msgstr ""
+
+#: .\content\models.py:252
+msgid "Is Renewable?"
+msgstr ""
+
+#: .\content\models.py:253
+msgid "Check this box if this offer can be renew"
+msgstr ""
+
+#: .\content\models.py:254
+msgid "Offer Duration (In day)"
+msgstr ""
+
+#: .\content\models.py:255
+msgid "In Day, 0 for unlimited"
+msgstr ""
+
+#: .\content\models.py:262
+msgid "Offers"
+msgstr ""
+
+#: .\content\models.py:278 .\content\models.py:339
+msgid "Price"
+msgstr ""
+
+#: .\content\models.py:280
+msgid "UnCheck this box if this price is not available anymore"
+msgstr ""
+
+#: .\content\models.py:281 .\content\models.py:342 .\content\models.py:359
+msgid "Date Start"
+msgstr ""
+
+#: .\content\models.py:282 .\content\models.py:343 .\content\models.py:360
+msgid "Date End"
+msgstr ""
+
+#: .\content\models.py:283 .\content\models.py:297 .\content\models.py:307
+#: .\content\models.py:344
+msgid "Currency"
+msgstr ""
+
+#: .\content\models.py:288
+msgid "Offer Prices"
+msgstr ""
+
+#: .\content\models.py:299 .\content\models.py:304
+msgid "Deposit Amount"
+msgstr ""
+
+#: .\content\models.py:305
+msgid "Withdraw Amount"
+msgstr ""
+
+#: .\content\models.py:306
+msgid "Transaction Date"
+msgstr ""
+
+#: .\content\models.py:308
+msgid "Transaction Reference Id"
+msgstr ""
+
+#: .\content\models.py:310
+msgid "Transaction Reference Model"
+msgstr ""
+
+#: .\content\models.py:311
+msgid "Models to which this Transaction referred"
+msgstr ""
+
+#: .\content\models.py:314
+msgid "Transaction"
+msgstr ""
+
+#: .\content\models.py:341
+msgid "UnCheck this box if this subscription is not available anymore"
+msgstr ""
+
+#: .\content\models.py:346
+msgid "Payment Date"
+msgstr ""
+
+#: .\content\models.py:349
+msgid "Subscriptions"
+msgstr ""
+
+#: .\content\models.py:361
+msgid "Time"
+msgstr ""
+
+#: .\content\models.py:363
+msgid "Tuesday"
+msgstr ""
+
+#: .\content\models.py:364
+msgid "Wednesday"
+msgstr ""
+
+#: .\content\models.py:365
+msgid "Thursday"
+msgstr ""
+
+#: .\content\models.py:366
+msgid "Friday"
+msgstr ""
+
+#: .\content\models.py:367
+msgid "Saturday"
+msgstr ""
+
+#: .\content\models.py:368
+msgid "Sunday"
+msgstr ""
+
+#: .\content\models.py:377 .\content\models.py:391 .\content\models.py:402
+msgid "Date"
+msgstr ""
+
+#: .\content\models.py:389
+msgid "Referred User "
+msgstr ""
+
+#: .\content\models.py:392
+msgid "Referral Link"
+msgstr ""
+
+#: .\content\models.py:398
+msgid "Shared From"
+msgstr ""
+
+#: .\content\models.py:400
+msgid "Shared To"
+msgstr ""
+
+#: .\content\models.py:411
+msgid "Testimonies"
+msgstr ""
+
+#: .\content\models.py:415
+msgid "User Name"
+msgstr ""
+
+#: .\content\templates\email\bwl_password_reset.html:4
+#, python-format
+msgid "Password reset on %(site_name)s"
+msgstr ""
+
+#: .\content\templates\email\bwl_password_reset.html:8
+#: .\content\templates\email\bwl_password_reset.html:22
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+
+#: .\content\templates\email\bwl_password_reset.html:15
+#: .\content\templates\email\bwl_password_reset.html:27
+msgid "Please use the following to reset your password: "
+msgstr ""
+
+#: .\content\templates\email\bwl_password_reset.html:16
+#: .\content\templates\email\bwl_password_reset.html:30
+msgid "Thanks for using our site!"
+msgstr ""
+
+#: .\content\templates\email\bwl_password_reset.html:18
+#: .\content\templates\email\bwl_password_reset.html:32
+#, python-format
+msgid "The %(site_name)s team"
+msgstr ""
+
+#: .\content\templates\email\bwl_password_reset.html:28
+msgid "Your username, in case you've forgotten:"
+msgstr ""
+
+#: .\content\views.py:88
+msgid "Code Sent to email"
+msgstr ""
+
+#: .\content\views.py:89
+msgid "Email not found"
+msgstr "Message non trouve"
+
+#: .\content\views.py:269
+msgid "Currency id is required"
+msgstr ""
+
+#: .\templates\admin\base_site.html:16
+msgid "Copyright"
+msgstr ""
+
+#: .\templates\admin\base_site.html:16
+msgid "All rights reserved."
+msgstr ""

@@ -1,0 +1,24 @@
+{% extends "admin/base.html" %}
+
+{% load i18n static jazzmin admin_urls %}
+{% get_current_language as LANGUAGE_CODE %}
+{% get_current_language_bidi as LANGUAGE_BIDI %}
+{% get_jazzmin_settings as jazzmin_settings %}
+{% get_jazzmin_ui_tweaks as jazzmin_ui %}
+{% load i18n static %}
+
+{% block footer %}
+    {% if not is_popup %}
+        <footer class="main-footer {{ jazzmin_ui.footer_classes }}">
+                <div class="float-right d-none d-sm-inline">
+                </div>
+
+                <strong>{% trans 'Copyright' %} &copy; {% now 'Y' %} {{ jazzmin_settings.copyright }} <a href="https://5solutionsllc.com" target="_blank"> 5 Solutions, LLC</a> .</strong> {% trans 'All rights reserved.' %}
+
+        </footer>
+        {% if jazzmin_settings.show_ui_builder %}
+            {% include 'jazzmin/includes/ui_builder_panel.html' %}
+        {% endif %}
+    {% endif %}
+{% endblock %}
+

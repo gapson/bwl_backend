@@ -1,0 +1,8 @@
+
+.pydevproject
+.settings
+.project
+*.pyc
+db.sqlite3
+*.sqlite3
+scripts/tmp/*
